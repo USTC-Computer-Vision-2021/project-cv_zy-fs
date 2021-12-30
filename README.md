@@ -49,4 +49,8 @@
             mask_lastcopy = mask_blured.copy()
 ```
 
+<img src="https://github.com/USTC-Computer-Vision-2021/project-cv_zy-fs/blob/main/maskImg/mask1.png" width="400"><img src="https://github.com/USTC-Computer-Vision-2021/project-cv_zy-fs/blob/main/maskImg/mask2.png" width="400">
+
+
+
 
