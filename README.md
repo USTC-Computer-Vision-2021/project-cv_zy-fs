@@ -48,5 +48,5 @@
             mask_blured = cv2.blur(mask_lastcopy, (40, 40))
             mask_lastcopy = mask_blured.copy()
 ```
-![(E Q71NP6`JC@VF1IC@W37X](https://user-images.githubusercontent.com/59904952/147740644-e47dfd23-4536-4b99-9bda-8931812c4bd9.png)
-![VL$336I9`ITRS3W}_R7`1_M](https://user-images.githubusercontent.com/59904952/147740671-834459d7-a787-45ad-93c0-abc95eb4eb3d.png)
+
+
