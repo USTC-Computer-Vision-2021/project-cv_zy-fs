@@ -51,6 +51,5 @@
 
 <img src="https://github.com/USTC-Computer-Vision-2021/project-cv_zy-fs/blob/main/maskImg/mask1.png" width="400"><img src="https://github.com/USTC-Computer-Vision-2021/project-cv_zy-fs/blob/main/maskImg/mask2.png" width="400">
 
-
-
-
+## 结果展示
+这里展示了其中一个运行结果，左图是
