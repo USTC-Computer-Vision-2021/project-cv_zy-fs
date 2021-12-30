@@ -52,4 +52,24 @@
 <img src="https://github.com/USTC-Computer-Vision-2021/project-cv_zy-fs/blob/main/maskImg/mask1.png" width="400"><img src="https://github.com/USTC-Computer-Vision-2021/project-cv_zy-fs/blob/main/maskImg/mask2.png" width="400">
 
 ## 结果展示
-这里展示了其中一个运行结果，左图是
+这里展示了其中一个运行结果，下图是1991年和2018年新加坡的一角对比图：
+![6c224f4a20a4462354b02be16b3d42070df3d7e0](https://user-images.githubusercontent.com/59904952/147752553-cb8a18f7-395b-4349-a97f-180960af3022.jpeg)
+
+我们从历史图片中截取了一小部分实现了较好的拼接：
+
+![效果展示1](result/result1.jpg)
+
+![效果展示2](result/matched_img1.jpg)
+
+## 运行说明
+运行环境如下：
+```
+numpy==1.21.5
+python==3.7.11
+opencv-contrib-python==3.4.2.16
+opencv-python==3.4.2.16
+```
+## 参考资料
+https://www.cnblogs.com/lqerio/p/11601951.html
+https://blog.csdn.net/qq_37374643/article/details/88606351
+https://cloud.tencent.com/developer/article/1169464
